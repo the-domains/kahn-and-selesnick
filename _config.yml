@@ -1,7 +1,7 @@
 name: 'Kahn & Selesnick'
 favicon: null
-layout_spectrum: 0.25347
-typography_spectrum: 0.9229391
+layout_spectrum: 0.84182
+typography_spectrum: 0.72012
 collections:
   - index:
       path: /
@@ -33,7 +33,7 @@ color:
     - '#5C6E1F'
     - '#A29A9A'
     - '#A32802'
-  brandStrength: 0.25
+  brandStrength: 1
   lightness: 0.9462366
   saturation: 0.9103943
   rhythmicContrast: 0

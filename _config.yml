@@ -1,40 +1,40 @@
-name: 'Kahn & Selesnick'
-favicon: null
-layout_spectrum: 0.59283
-typography_spectrum: 0.72012
+purpose: []
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
+  saturation: 0.9103943
+  brandStrength: 0
+  rhythmicContrast: 0
   brandColors:
     - '#0C0E0E'
     - '#CEC7CF'
     - '#5C6E1F'
     - '#A29A9A'
     - '#A32802'
-  brandStrength: 0
   lightness: 0.9462366
-  saturation: 0.9103943
-  rhythmicContrast: 0
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: Kahn & Selesnick
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.4408602
+layout_spectrum: 0.59283
